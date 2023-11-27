@@ -1,0 +1,11 @@
+br\com\jovencio\marlan\factorymethoddotenv\factories\daos\impl\SQLiteDAOFactory.class
+br\com\jovencio\marlan\factorymethoddotenv\dao\conexoes\impl\SQLiteConexao.class
+br\com\jovencio\marlan\factorymethoddotenv\dao\usuario\IUsuarioDAO.class
+br\com\jovencio\marlan\factorymethoddotenv\factories\daos\DAOFactory.class
+br\com\jovencio\marlan\factorymethoddotenv\dao\usuario\impl\UsuarioPostgresDAO.class
+br\com\jovencio\marlan\factorymethoddotenv\model\entity\Usuario.class
+br\com\jovencio\marlan\factorymethoddotenv\FactoryMethodDotEnv.class
+br\com\jovencio\marlan\factorymethoddotenv\factories\daos\impl\PostgresDAOFactory.class
+br\com\jovencio\marlan\factorymethoddotenv\dao\conexoes\impl\PostgresConexao.class
+br\com\jovencio\marlan\factorymethoddotenv\dao\conexoes\IBancoDadosConexao.class
+br\com\jovencio\marlan\factorymethoddotenv\dao\usuario\impl\UsuarioSQLiteDAO.class
